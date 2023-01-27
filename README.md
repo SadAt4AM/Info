@@ -1,5 +1,5 @@
 ### Лучший в мире хакер
-![Some atl text here](hackerman.gif)
+![Some atl text here](hackerman.gif)\
 Возраст: _много_\
 Рост: _быстрый_\
 Вес: _значимый_
@@ -12,7 +12,7 @@
 * Взлом пентагона; 
 
 ### Наглядный пример моей работы:
-![Some atl text here](hacker-man-hacker.gif)
+![Some atl text here](hacker-man-hacker.gif)\
 :+1:
 -[x] Взломал много всего
 -[ ] Был пойман
